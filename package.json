@@ -1,0 +1,16 @@
+{
+  "name": "sqm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
